@@ -1,0 +1,6 @@
+{
+  "name": "Nằm Nghe Audio — YouTube MP3 Splitter & Publisher Pro",
+  "description": "Hệ thống tách nhạc YouTube MP3 đa luồng, tạo mẫu nghe thử 5 phút (1.25x), quản lý dự án và tự động đăng truyện lên Nằm Nghe Audio & Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
